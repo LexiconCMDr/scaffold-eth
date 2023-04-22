@@ -8503,10 +8503,10 @@ eth-ens-namehash@2.0.8, eth-ens-namehash@^2.0.8:
     idna-uts46-hx "^2.3.1"
     js-sha3 "^0.5.7"
 
-eth-hooks@2.3.0-beta07:
-  version "2.3.0-beta07"
-  resolved "https://registry.yarnpkg.com/eth-hooks/-/eth-hooks-2.3.0-beta07.tgz#ed0d63bf3a0b878b3bc1184524ca30d173b8d145"
-  integrity sha512-ekfF6u9VR+NqKFvNrAfdnymoEexsi0NsF9mtq34dApCAnmwyoroIvWncVusRDbsCO6dnlWK9zRR3mQq2OQjOhw==
+eth-hooks@2.3.8:
+  version "2.3.8"
+  resolved "https://registry.yarnpkg.com/eth-hooks/-/eth-hooks-2.3.8.tgz#419246a1f37efd8822813b0f7298399c16f4bba1"
+  integrity sha512-MnmW2LDaUWjdQbHoR1wEHAMu6L9vaRse2Ofs6O43Wu27tn6fZuNPAZVlYSC6D4aD9JYxKZXR7Uz/bkCczJO0pQ==
   dependencies:
     "@ethersproject/address" "^5.4.0"
     "@ethersproject/bignumber" "^5.4.0"
@@ -17039,16 +17039,16 @@ qs@6.7.0:
   integrity sha512-VCdBRNFTX1fyE7Nb6FYoURo/SPe62QCaAyzJvUjwRaIsc+NePBEniHlvxFmmX56+HZphIGtV0XeCirBtpDrTyQ==
 
 qs@^6.5.2, qs@^6.7.0, qs@^6.9.4:
-  version "6.10.1"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.10.1.tgz#4931482fa8d647a5aab799c5271d2133b981fb6a"
-  integrity sha512-M528Hph6wsSVOBiYUnGf+K/7w0hNshs/duGsNXPUCLH5XAqjEtiPGwNONLV0tBH8NoGb0mvD5JubnUTrujKDTg==
+  version "6.11.1"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.11.1.tgz#6c29dff97f0c0060765911ba65cbc9764186109f"
+  integrity sha512-0wsrzgTz/kAVIeuxSjnpGC56rzYtr6JT/2BwEvMaPhFIoYa1aGO8LbzuU1R0uUYQkLpWBTOj0l/CLAJB64J6nQ==
   dependencies:
     side-channel "^1.0.4"
 
 qs@~6.5.2:
-  version "6.5.2"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
-  integrity sha512-N5ZAX4/LxJmF+7wN74pUD6qAh9/wnvdQcjq9TZjevvXzSUo7bfmw91saqMjzGS2xq91/odN2dW/WOl7qQHNDGA==
+  version "6.5.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.3.tgz#3aeeffc91967ef6e35c0e488ef46fb296ab76aad"
+  integrity sha512-qxXIEh4pCGfHICj1mAJQ2/2XVZkjCDTcEgfoSQxc/fYivUZxTkk7L3bDBJSoNrEzXI17oUO5Dp07ktqE5KzczA==
 
 query-string@6.13.5:
   version "6.13.5"
